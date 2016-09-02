@@ -1,0 +1,43 @@
+.player {
+    margin: 10px 10px 10px;
+}
+
+.navbar .navbar-nav > li > a {
+  color: inherit;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+#count {
+  background: #8e44ad;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 35px;
+  font-size: 22px;
+  margin: 0;
+  border: 3px solid #9b59b6;
+  border-radius: 5px;
+  color: white;
+  float: left;
+}
+
+.button, #count {
+  float: left;
+}
+
+#minus {
+  font-size: 40px;
+  margin: 12px 2.5% 0 22.0%;
+  float: left;
+}
+
+#plus {
+  font-size: 40px;
+  margin: 12px 21.5% 0 0.5%;
+  float:left;
+}
